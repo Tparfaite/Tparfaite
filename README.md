@@ -1,6 +1,6 @@
 # Hello 👋
 
-<!--
+# I AM Parfaite TWAGIRAMARIYA, I am from Rwanda and I am doing computer science.
 **Tparfaite/Tparfaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
