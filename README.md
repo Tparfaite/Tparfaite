@@ -1,6 +1,8 @@
 # Hello 👋
 
-# I AM Parfaite TWAGIRAMARIYA, I am from Rwanda and I am doing computer science.
+## I AM Parfaite TWAGIRAMARIYA, I am from Rwanda and I am doing computer science.
+
+#### As we are in time where technology is rapidly developed, I wished to be one among great programmers who transform and improve technology day by day. Due to that i decided to study computer science which will help me to achieve my goals. 
 **Tparfaite/Tparfaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
